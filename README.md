@@ -20,8 +20,11 @@ Project Insights- Week 53 (31st	Dec)
 
 Week over week changes:
 
+
 Revenue increased by 28.8%
+
 Total Transaction Amt & Count increased by 35 % & 3.39 %
+
 Customer count increased by 12.80%
 
 Overview YTD:
