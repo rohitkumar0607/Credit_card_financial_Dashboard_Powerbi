@@ -5,7 +5,7 @@ Project objective:- To develop a comprehensive credit  card weekly dashboard tha
 
 Dataset- Financial dataset
 
-steps-
+steps performed-
 1) Prepared csv files by collecting Data.
 2) Created DataBase in MYSQL.
 3) Created Credit Card Table and Customer Table in the Database.
@@ -20,19 +20,28 @@ Project Insights- Week 53 (31st	Dec)
 
 Week over week changes:
 
-Revenue increased by 28.8%,
+Revenue increased by 28.8%
+
 Total Transaction Amt & Count increased by 35 % & 3.39 %
+
 Customer count increased by 12.80%
 
 Overview YTD:
 
 Overall revenue is 57M
+
 Total interest is 8M
+
 Total transaction amount is 46M
+
 Male customers are contributing more in revenue 31M, female 26M
+
 Blue & Silver credit card are contributing to 93% of overall  transactions
+
 TX, NY & CA is contributing to 68%
+
 Overall Activation rate is 57.5%
+
 Overall Delinquent rate is 6.06%
 
       
