@@ -16,7 +16,9 @@ steps performed-
 8) Uploaded new week Data(week 53) into the Database Tables and done the weekly analysis in the powerbi.
 
 
+
 Project Insights- Week 53 (31st	Dec)
+
 
 Week over week changes:
 
@@ -27,7 +29,9 @@ Total Transaction Amt & Count increased by 35 % & 3.39 %
 
 Customer count increased by 12.80%
 
+
 Overview YTD:
+
 
 Overall revenue is 57M
 
